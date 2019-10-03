@@ -61,37 +61,37 @@
     </option>
   </component>
   <component name="RunManager" selected="Catch.test the getTotalOccurrence">
-    <configuration name="test the calculateP" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="unit-tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="unit-tests" TEST_METHOD="test the calculateP" TEST_MODE="SUITE_TEST">
+    <configuration name="test the calculateP" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="naivebayes" TARGET_NAME="unit-tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="naivebayes" RUN_TARGET_NAME="unit-tests" TEST_METHOD="test the calculateP" TEST_MODE="SUITE_TEST">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
         <option name="BeforeTestRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test the getTotalOccurrence" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="unit-tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="unit-tests" TEST_METHOD="test the getTotalOccurrence" TEST_MODE="SUITE_TEST">
+    <configuration name="test the getTotalOccurrence" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="naivebayes" TARGET_NAME="unit-tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="naivebayes" RUN_TARGET_NAME="unit-tests" TEST_METHOD="test the getTotalOccurrence" TEST_MODE="SUITE_TEST">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
         <option name="BeforeTestRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test the initialization" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="unit-tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="unit-tests" TEST_METHOD="test the initialization" TEST_MODE="SUITE_TEST">
+    <configuration name="test the initialization" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="naivebayes" TARGET_NAME="unit-tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="naivebayes" RUN_TARGET_NAME="unit-tests" TEST_METHOD="test the initialization" TEST_MODE="SUITE_TEST">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
         <option name="BeforeTestRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test the loadOccureence" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="unit-tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="unit-tests" TEST_METHOD="test the loadOccureence" TEST_MODE="SUITE_TEST">
+    <configuration name="test the loadOccureence" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="naivebayes" TARGET_NAME="unit-tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="naivebayes" RUN_TARGET_NAME="unit-tests" TEST_METHOD="test the loadOccureence" TEST_MODE="SUITE_TEST">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
         <option name="BeforeTestRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test the loadPair" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="unit-tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="unit-tests" TEST_METHOD="test the loadPair" TEST_MODE="SUITE_TEST">
+    <configuration name="test the loadPair" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="naivebayes" TARGET_NAME="unit-tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="naivebayes" RUN_TARGET_NAME="unit-tests" TEST_METHOD="test the loadPair" TEST_MODE="SUITE_TEST">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
         <option name="BeforeTestRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="unit-tests" EXPLICIT_BUILD_TARGET_NAME="all">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="naivebayes" RUN_TARGET_NAME="unit-tests" EXPLICIT_BUILD_TARGET_NAME="all">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
