@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c3c8c55-ee45-4c9a-958e-169058bd5ecf" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>stod</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RfqhEAwwufLvBEz9KSpXo36oyE" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests" />
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Catch.test the getTotalOccurrence">
+    <configuration name="test the calculateP" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="unit-tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="unit-tests" TEST_METHOD="test the calculateP" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test the getTotalOccurrence" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="unit-tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="unit-tests" TEST_METHOD="test the getTotalOccurrence" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test the initialization" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="unit-tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="unit-tests" TEST_METHOD="test the initialization" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test the loadOccureence" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="unit-tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="unit-tests" TEST_METHOD="test the loadOccureence" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test the loadPair" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="unit-tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="unit-tests" TEST_METHOD="test the loadPair" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="unit-tests" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Catch.test the getTotalOccurrence" />
+      <item itemvalue="Catch.test the calculateP" />
+      <item itemvalue="Catch.test the loadPair" />
+      <item itemvalue="Catch.test the loadOccureence" />
+      <item itemvalue="Catch.test the initialization" />
+      <item itemvalue="CMake Application.Build All" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Catch.test the initialization" />
+        <item itemvalue="Catch.test the loadOccureence" />
+        <item itemvalue="Catch.test the loadPair" />
+        <item itemvalue="Catch.test the calculateP" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c3c8c55-ee45-4c9a-958e-169058bd5ecf" name="Default" comment="" />
+      <created>1520932378200</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520932378200</updated>
+      <workItem from="1520932379582" duration="1093000" />
+      <workItem from="1521084610242" duration="14388000" />
+      <workItem from="1521579012725" duration="255000" />
+      <workItem from="1521920562526" duration="60532000" />
+      <workItem from="1522641140315" duration="145000" />
+      <workItem from="1522642624310" duration="246000" />
+      <workItem from="1522785243529" duration="242000" />
+      <workItem from="1522961485993" duration="847000" />
+      <workItem from="1528680878647" duration="738000" />
+      <workItem from="1530079951310" duration="24000" />
+      <workItem from="1558959903352" duration="849000" />
+      <workItem from="1559196339238" duration="3401000" />
+      <workItem from="1560112516649" duration="3822000" />
+      <workItem from="1560341431834" duration="2419000" />
+      <workItem from="1561021675225" duration="3000" />
+      <workItem from="1570068616331" duration="18000" />
+      <workItem from="1570070537445" duration="21000" />
+      <workItem from="1570071242038" duration="11000" />
+      <workItem from="1570071439955" duration="237000" />
+    </task>
+    <task id="LOCAL-00001" summary="finished training">
+      <created>1522206070849</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1522206070849</updated>
+    </task>
+    <task id="LOCAL-00002" summary="finished classifying">
+      <created>1522216750952</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1522216750952</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fixing some bugs">
+      <created>1522400676629</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1522400676629</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added documents">
+      <created>1522433093186</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1522433093186</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="test_the_calculateP - 2018.03.30 at 01h 47m 41s.xml">
+      <configuration name="test the calculateP" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_the_calculateP - 2018.03.30 at 01h 48m 04s.xml">
+      <configuration name="test the calculateP" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_the_calculateP - 2018.03.30 at 01h 49m 20s.xml">
+      <configuration name="test the calculateP" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_the_calculateP - 2018.03.30 at 01h 54m 27s.xml">
+      <configuration name="test the calculateP" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_the_calculateP - 2018.03.30 at 01h 56m 33s.xml">
+      <configuration name="test the calculateP" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_the_getTotalOccurrence - 2018.03.30 at 01h 56m 50s.xml">
+      <configuration name="test the getTotalOccurrence" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_the_initialization - 2018.03.30 at 14h 34m 13s.xml">
+      <configuration name="test the initialization" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_the_loadOccureence - 2018.03.30 at 02h 02m 48s.xml">
+      <configuration name="test the loadOccureence" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_the_loadPair - 2018.03.30 at 01h 59m 44s.xml">
+      <configuration name="test the loadPair" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_the_loadPair - 2018.03.30 at 02h 02m 22s.xml">
+      <configuration name="test the loadPair" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finished training" />
+    <MESSAGE value="finished classifying" />
+    <MESSAGE value="fixing some bugs" />
+    <MESSAGE value="added documents" />
+    <option name="LAST_COMMIT_MESSAGE" value="added documents" />
+  </component>
+</project>
